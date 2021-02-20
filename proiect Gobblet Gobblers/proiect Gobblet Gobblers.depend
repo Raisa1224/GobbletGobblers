@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581850877 source:c:\users\admin\desktop\cursuri\anul 1 sem 1\ip\partea 2\proiect\proiect gobblet gobblers\main.cpp
+	"graphics.h"
+	<iostream>
+	<stdio.h>
+	<Windows.h>
+
